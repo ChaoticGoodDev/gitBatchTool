@@ -1,6 +1,7 @@
 ## Goal
 - Simplified pulls of multiple github repos at once.
     - This would save me so much time at work doing this manually.
+    - Ideal if it works across different platforms without any installs or requirements (mac, pc, linux)
 
 ## Acceptance Criteria
 For a given folder like so with different github repo clones:
